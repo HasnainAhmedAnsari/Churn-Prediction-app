@@ -23,4 +23,4 @@ def test_models_can_be_loaded():
             assert obj is not None
 
 def test_app_file_exists():
-    assert os.path.exists("app2.py")
+    assert os.path.exists("app.py")
