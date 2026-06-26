@@ -80,7 +80,7 @@ st.markdown("""
 }
 
 .section{
-    background:white;
+    # background:white;
     padding:25px;
     border-radius:15px;
     box-shadow:0px 0px 15px rgba(0,0,0,0.08);
